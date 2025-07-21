@@ -1,0 +1,11 @@
+# Site settings
+
+title: New Blog Title 
+author: 
+  name: Rich Doherty
+  email: rfdoherty1978@gmail.com 
+description: New Blog about Jekyll on Github Pages
+
+# Build settings
+
+remote_theme: jekyll/minima
